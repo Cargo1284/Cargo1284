@@ -21,5 +21,7 @@ I am a senior at Columbia University studying computer science. I grew up in Lon
 - :baseball: "Let's go Yankess" 
 - :football: Here we go! Steeler Nation
 
-[![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Cargo1284)](https://github.com/Cargo1284/github-readme-stats)
+💻 Languages: Python, Java, C
+
+
 

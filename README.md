@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+I am a senior at Columbia University studying computer science. I grew up in Long Branch, New Jersey. I am an avid sports fan and one of the biggest Yankee fans you'll ever meet. I have previously worked an internship and Prudential and will work their full time upon graduation. One of my goals is to work in the sports industry. 
+
+- :school: Columbia University 
+- :baseball: "Let's go Yankess" 
+- :football: Here we go! Steeler Nation

@@ -23,5 +23,7 @@ I am a senior at Columbia University studying computer science. I grew up in Lon
 
 💻 Languages: Python, Java, C
 
+https://img.shields.io/github/stars/Cargo1284?style=social
+
 
 
